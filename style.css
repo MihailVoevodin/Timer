@@ -1,0 +1,25 @@
+body {
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.timer {
+    padding-top: 300px;
+    margin: 0 auto;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 24px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    width: 500px;
+}
+
+.timer span {
+    font-family: 'Monofett', cursive;
+    padding-bottom: 30px;
+    font-size: 60px;
+    display: block;
+    text-align: center;
+}
